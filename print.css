@@ -1,0 +1,52 @@
+@media print {
+    /* Set the page size and margins. */
+    html, body {
+      width: 8.5in;
+      height: 11in;
+      margin: 0;
+      padding: 0;
+      border: none;
+      color: black;
+    }
+  
+    /* Set the font size. */
+    body {
+      font-size: 12pt;
+    }
+  
+    /* Remove all elements that are not necessary for printing. */
+    .no-print {
+      display: none;
+    }
+
+    /*Hide navigation menu*/
+    nav{
+       visibility: hidden; 
+    }
+
+    /*Turns links black*/
+    a{
+        color: black;
+        text-decoration: none;
+    }
+
+
+    .addressfloat ul{
+        list-style: none;
+    }
+
+    header{
+        visibility: hidden;
+    }
+
+    .addressfloat p{
+        font-size: 2.5em;
+        text-align: center;
+    }
+
+    .addressfloat li{
+        font-size: 1.8em;
+    }
+
+
+  }

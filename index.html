@@ -1,7 +1,59 @@
+<!-- 
+    HOME PAGE
+    A majority of the text and image content is randomly generated, I did use an old resume for the Resume page so the actual text content will be inconsistent with other pages.
+            !!The website must support a Desktop view and a Tablet view.
+                Tablet view styles should be for devices that are 800px or less
+-->
+
 <!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Alex Mohr's Resume">
+    <meta name="keywords" content="HTML, CSS, C++, Visual Basic, VB, Java, resume">
+    <meta name="author" content="Alexander J. Mohr">
+
+    <title>Alexander J. Mohr</title>
+
+    <link rel="stylesheet" href="basestyle.css">
+    <script src="nav.js" defer></script>
+</head>
+
+<!--Start HTML-->
+<html lang="en">
+
+<!--Load Navbar, nav.js will load the navigation content-->
+<nav id="navbar"></nav>
+
+
+<!--Header-->
+<header>
+    <h1> James Alexander </h1>
+</header>
+
+<!--Body Start -- setting ID to "page1" to reference a single stylesheet and to assist in navigation changes to identify current button and change it's styles-->
+<body id="page1">
+
+    <div id="aboutMe">
+        <img src="profileImage.jpg" alt="Generic Human Male" height="200" >
+        <p>Most content on this site is AI generated. Consider this a placeholder for a future portfolio.</p>
+        </p>
+    </div>
+    
+    <!--Class for a fixed social icon link panel-->
+    <div class="social-media-bar">
+        <a href="https://www.facebook.com/" target="_blank"><img src="facebookIcon.svg" alt="Facebook"></a>
+        <a href="https://www.twitter.com/" target="_blank"><img src="twitterIcon.svg" alt="Twitter"></a>
+        <a href="https://www.linkedin.com/" target="_blank"><img src="linkedInIcon.svg" alt="LinkedIn"></a>
+        <a href="https://www.youtube.com/" target="_blank"><img src="youtubeIcon.svg" alt="YouTube"></a>
+    </div>
+
+
 </body>
+<!--Body End -->
+
+<!--Footer-->
+<footer><h6>Copyright    | &nbsp;&copy;&nbsp;2023 Alexander J. Mohr. All rights reserved.</h6>
+</footer>
+
+
 </html>
