@@ -1,0 +1,40 @@
+https://tamalsen.dev/
+--Font style and minimalist design
+--Featured projects
+--Experience, folding panels
+--Top nav bar fades at the top, nav bar links to parts of the same page
+
+https://www.edwardh.io/
+--Great game design example
+--Fly out menu
+
+https://www.seanhalpin.xyz/about
+-- Visual year Experience timeline.
+-Slick iPhone like design style with backgrounds and transparent panels
+
+https://www.onyedika.xyz/work
+--Hidden menus, but very cool resume setup to have the link send you to a gdrive file. This means it would be always up to date.
+
+https://www.rammaheshwari.com/
+--Very simple
+--Like the design of the contact me/send email area
+--Simple and pretty nav bar
+
+https://www.adhamdannaway.com/
+--Great website design overall
+--Very laggy tho
+
+https://www.codewonders.dev/about
+--Simple and minimalist, really like the about me layout
+
+https://vanholtz.co/
+--Really cool menu layout and reactions
+
+https://mattfarley.ca/
+--Simple more commerical focused
+
+https://brittanychiang.com/
+--Like the design layout in single page
+
+https://dunks1980.com/
+--Unique middle layout change on menu selection
